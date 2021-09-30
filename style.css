@@ -1,0 +1,66 @@
+body {
+  background: linear-gradient(90deg, rgba(2,0,36,1) 59%, rgba(0,26,255,0.6727065826330532) 81%, rgba(9,83,121,1) 95%);
+}
+
+.main-container {
+  height: 100vh;
+}
+
+.brand > span {
+  font-size: 3rem;
+  text-align: center;
+  margin-bottom: 16px;
+}
+
+.dog__heading {
+  text-align: center;
+  color: white;
+  font-size: 80px;
+  margin-bottom: 40px;
+  font-family: cursive;
+}
+
+.single__card {
+  margin-bottom: 40px;
+  height: 950px;
+}
+
+.card__image {
+  height: 65%;
+}
+
+.card__title {
+  text-align: center;
+}
+
+.blue__color {
+  color: blue;
+}
+
+.red__color {
+  color: red;
+}
+
+.yellow__color {
+  color: yellow;
+}
+
+.brown__color {
+  color: brown;
+}
+
+.purple__color {
+  color: purple;
+}
+
+.cyan__color {
+  color: cyan;
+}
+
+.pink__color {
+  color: pink;
+}
+
+.orange__color {
+  color: orange;
+}
